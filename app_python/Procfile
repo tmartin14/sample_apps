@@ -1,1 +1,1 @@
-web: python helloWorld.py $PORT
+web: newrelic-admin run-python helloWorld.py $PORT
