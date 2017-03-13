@@ -1,0 +1,11 @@
+---
+applications:
+- name: app_php
+  memory: 128M
+  instances: 1
+  host: app_php-${random-word}
+ 
+properties:
+  router:
+    tracing:
+      enable_zipkin: true

@@ -1,0 +1,5 @@
+{"v":0,"level":30,"name":"newrelic","hostname":"tomm-mbp13","pid":2783,"time":"2016-08-12T03:07:38.591Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"tomm-mbp13","pid":2786,"time":"2016-08-12T03:08:21.192Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"tomm-mbp13","pid":2790,"time":"2016-08-12T03:09:28.727Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"tomm-mbp13","pid":2794,"time":"2016-08-12T03:10:07.406Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":40,"name":"newrelic","hostname":"tomm-mbp13","pid":2794,"time":"2016-08-12T03:11:08.901Z","msg":"No connection has been established to New Relic after 4 attempts.","component":"collector_api"}
